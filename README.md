@@ -21,7 +21,7 @@ Além da programação, gosto de games e mercado financeiro.
 
 **Contato:**
 
-* **LinkedIn:** https://www.linkedin.com/in/luisrmorenodollazi?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BokZLlfLQTbWkBOcwmE4WqQ%3D%3D
+* **LinkedIn:** https://www.linkedin.com/in/luisrmorenodollazi
 * **GitHub:** https://github.com/LuisDollazi (Criado recentemente) https://github.com/Dollazi (Perdi o acesso, mas foi o que sempre utilizei)
 * **E-mail:** luis.moreno.dol@gmail.com
 
