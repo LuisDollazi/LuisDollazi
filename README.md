@@ -10,11 +10,6 @@ Olá! Eu sou o Luis Roberto Moreno Dollazi, um desenvolvedor full-stack. Com 4 a
 * **Banco de dados:** MongoDB, SQL
 * **Cloud:** AWS
 
-**Projetos:**
-
-* **[Nome do Projeto]:** Desenvolvi um aplicativo web para [descrição do projeto]. Utilizei [tecnologias utilizadas].
-* **[Nome do Projeto]:** Criei um sistema de gerenciamento de [descrição do projeto]. Empreguei [tecnologias utilizadas].
-
 **Interesses:**
 
 Além da programação, gosto de games e mercado financeiro.
