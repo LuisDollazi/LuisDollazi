@@ -1,4 +1,3 @@
-Markdown
 ## Sobre mim
 
 Olá! Eu sou o Luis Roberto Moreno Dollazi, um desenvolvedor full-stack. Com 4 anos de experiência, tenho trabalhado com diversas tecnologias, como React, Node.js, C# e qualquer desafio novo com a linguagem que for.
